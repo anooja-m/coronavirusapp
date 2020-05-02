@@ -21,43 +21,34 @@
       <!-- Left -->
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/jquery/" target="_blank">World</a>
+          <a class="nav-link waves-effect" href="#" target="_blank">Fawzlabs</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/angular/" target="_blank">India</a>
+          <a class="nav-link waves-effect" href="#" target="_blank">World</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/react/" target="_blank">Business</a>
+          <a class="nav-link waves-effect" href="#" target="_blank">India</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/vue/" target="_blank">News</a>
+          <a class="nav-link waves-effect" href="#" target="_blank">News</a>
         </li>
       </ul>
 
       <!-- Right -->
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
-          <a href="https://www.facebook.com/mdbootstrap" class="nav-link waves-effect" target="_blank">
+          <a href="https://www.facebook.com/fawzlabs/?ref=br_rs" class="nav-link waves-effect" target="_blank">
             <i class="fab fa-facebook-f"></i>
           </a>
         </li> 
-        <li class="nav-item">
-          <a href="https://twitter.com/MDBootstrap" class="nav-link waves-effect" target="_blank">
-            <i class="fab fa-twitter"></i>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a href="https://github.com/mdbootstrap/bootstrap-material-design" class="nav-link waves-effect"
+         <li class="nav-item">
+          <a href=" https://www.linkedin.com/company/fawzlabs/" class="nav-link waves-effect"
              target="_blank">
-            <i class="fab fa-github"></i>
+           <i class="fab fa-linkedin-in"> </i>
           </a>
         </li>
-        <li class="nav-item">
-          <a href="https://mdbootstrap.com/docs/jquery/newsletter/"
-             class="nav-link border border-light rounded waves-effect mr-2" target="_blank">
-            <i class="fas fa-envelope mr-1"></i>Newsletter
-          </a>
-        </li>
+       
+       
       </ul>
 
     </div>
@@ -286,30 +277,107 @@
 
 </div>
   </div></div>
-<div class="container my-5 py-5">
 
-  
+     
+<div class="container my-5 p-5 z-depth-1">
+
+
   <!--Section: Content-->
-  <section class="text-center px-md-5 mx-md-5 dark-grey-text">
-    
-    <div class="row mb-5">
-      <div class="col-md-4 mx-auto">
-        <div class="view mb-4 pb-2">
-          <img src="https://mdbootstrap.com/img/illustrations/undraw_connected_world_wuay.svg" class="img-fluid" alt="smaple image">
-        </div>
-      </div>
-    </div>
+  <section class="dark-grey-text">
 
-    <h3 class="font-weight-bold mb-4 pb-2"><div style="margin-bottom:30px; margin-left: 5%">
-      <a style="text-decoration: underline;" href="#">Report coronavirus cases</a>
-      </div></h3>
- 
+    <!-- Section heading -->
+    <h2 class="text-center font-weight-bold mb-4 pb-2">STAY HOME.SAVE LIVES.</h2>
+    <!-- Section description -->
+    <p class="text-center lead grey-text mx-auto mb-5">Protect yourself and others around you by knowing the facts and taking appropriate precautions. Follow advice provided by your local public health agency.</p>
+
+    <!-- Grid row -->
+    <div class="row">
+
+      <!-- Grid column -->
+      <div class="col-lg-5 text-center text-lg-left">
+        <img class="img-fluid" src="./assets/dr.jpg" alt="Sample image">
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-7">
+
+        <!-- Grid row -->
+        <div class="row mb-3">
+
+          <!-- Grid column -->
+          <div class="col-1">
+            <i class="fas fa-share fa-lg indigo-text"></i>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-xl-10 col-md-11 col-10">
+            
+            <p class="grey-text">If you feel sick you should rest, drink plenty of fluid, and eat nutritious food. Stay in a separate room from other family members, and use a dedicated bathroom if possible.
+               Clean and disinfect frequently touched surfaces.</p>
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row -->
+
+        <!-- Grid row -->
+        <div class="row mb-3">
+
+          <!-- Grid column -->
+          <div class="col-1">
+            <i class="fas fa-share fa-lg indigo-text"></i>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-xl-10 col-md-11 col-10">
+           
+            <p class="grey-text">Everyone should keep a healthy lifestyle at home. Maintain a healthy diet, sleep, stay active, and make social contact with loved ones through the phone or internet. Children need extra love and attention from adults during difficult times.
+               Keep to regular routines and schedules as much as possible..</p>
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row -->
+
+        <!--Grid row-->
+        <div class="row">
+
+          <!-- Grid column -->
+          <div class="col-1">
+            <i class="fas fa-share fa-lg indigo-text"></i>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-xl-10 col-md-11 col-10">
+           
+            <p class="grey-text mb-0">It is normal to feel sad, stressed, or confused during a crisis. Talking to people you trust, such as friends and family, can help.
+               If you feel overwhelmed, talk to a health worker or counsellor.</p>
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!--Grid row-->
+
+      </div>
+      <!--Grid column-->
+
+    </div>
+    <!-- Grid row -->
+
   </section>
   <!--Section: Content-->
 
-  
+
 </div>
 
+    <h3 class="font-weight-bold mb-4 pb-2"><div style=" text-align:center">
+      <a style="text-decoration: underline;" href="#">Coronavirus cases reported</a>
+      </div></h3>
+ 
 <section id="table">
 <mdb-datatable responsive
     :data="tableData"
@@ -317,6 +385,36 @@
     bordered
   />
 </section>
+ 
+        
+      <!-- Footer -->
+<footer class="page-footer font-small unique-color-dark pt-4">
+
+  <!-- Footer Elements -->
+  <div class="container">
+
+    <!-- Call to action -->
+    <ul class="list-unstyled list-inline text-center py-2">
+      <li class="list-inline-item">
+        <h5 class="mb-1">Stay connected with us</h5>
+      </li>
+      <li class="list-inline-item">
+        <a href="#!" class="btn btn-outline-white">Sign up!</a>
+      </li>
+    </ul>
+    <!-- Call to action -->
+
+  </div>
+  <!-- Footer Elements -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://fawzlabs.com"> Fawzlabs.com</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
 </div>
 </template>
 <style>
