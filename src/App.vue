@@ -5,8 +5,8 @@
 
   <div class="container"> 
 
-    <a class="navbar-brand" href="#">
-      <img src="./assets/icon.jpeg" height="30" alt="mdb logo">
+    <a class="navbar-brand" href="http://fawzlabs.com/#/">
+      <img src="./assets/icon.jpeg" height="30" alt="logo">
     </a>
 
     <!-- Collapse button -->
@@ -21,16 +21,16 @@
       <!-- Left -->
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="#" target="_blank">Fawzlabs</a>
+          <a class="nav-link waves-effect" href="http://fawzlabs.com/#/" target="_blank"><strong>Fawzlabs</strong></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="#" target="_blank">World</a>
+          <a class="nav-link waves-effect" href="#table">News</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="#" target="_blank">India</a>
+          <a class="nav-link waves-effect" href="#Statistics">Statistics</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link waves-effect" href="#" target="_blank">News</a>
+          <a class="nav-link waves-effect" href="#Precautions">Precautions</a>
         </li>
       </ul>
 
@@ -111,7 +111,7 @@
 
 
   <!--Section: Content-->
-  <section class="">
+  <section id="Statistics">
 
     <!-- Section heading -->
     <h3 class="text-center font-weight-bold mb-5">When and how to wear medical masks to protect against coronavirus?</h3>
@@ -171,7 +171,7 @@
 
 
   <!--Section: Content-->
-  <section class="">
+  <section>
 
   	<div class="row">
 
@@ -224,6 +224,7 @@
 </div>
       </div>
     </div>
+   
     <div class="col-md-4"><div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
   <div class="card-header">Active Cases</div>
   <div class="card-body">
@@ -273,11 +274,13 @@
    
   </div>
 </div>
-<p class="text-muted">Statistic taken at : {{worldData.statistic_taken_at}}</p>
+<p class="text-muted">Last updated at : {{worldData.statistic_taken_at}}</p>
 
 </div>
+    
   </div></div>
-
+  
+<section id="Precautions">
      
 <div class="container my-5 p-5 z-depth-1">
 
@@ -286,7 +289,7 @@
   <section class="dark-grey-text">
 
     <!-- Section heading -->
-    <h2 class="text-center font-weight-bold mb-4 pb-2">STAY HOME.SAVE LIVES.</h2>
+    <h2 class="text-center font-weight-bold mb-4 pb-2">Precautions</h2>
     <!-- Section description -->
     <p class="text-center lead grey-text mx-auto mb-5">Protect yourself and others around you by knowing the facts and taking appropriate precautions. Follow advice provided by your local public health agency.</p>
 
@@ -373,10 +376,10 @@
 
 
 </div>
-
-    <h3 class="font-weight-bold mb-4 pb-2"><div style=" text-align:center">
-      <a style="text-decoration: underline;" href="#">Coronavirus cases reported</a>
-      </div></h3>
+</section>
+    <h2 class="text-center font-weight-bold mb-4 pb-2">
+      <a>Coronavirus cases reported</a>
+    </h2>
  
 <section id="table">
 <mdb-datatable responsive
@@ -385,7 +388,9 @@
     bordered
   />
 </section>
- 
+ <h6 class="text-center font-weight mb-5">
+      Data credits: astsiatsko
+    </h6>
         
       <!-- Footer -->
 <footer class="page-footer font-small unique-color-dark pt-4">
@@ -399,17 +404,21 @@
         <h5 class="mb-1">Stay connected with us</h5>
       </li>
       <li class="list-inline-item">
-        <a href="#!" class="btn btn-outline-white">Sign up!</a>
+      
+<a class="btn-floating btn-lg btn-fb" type="button" role="button" href="https://www.facebook.com/fawzlabs/?ref=br_rs"><i class="fab fa-facebook-f"></i></a>
       </li>
+<li class="list-inline-item">
+      <a class="btn-floating btn-lg btn-li" type="button" role="button" href=" https://www.linkedin.com/company/fawzlabs/"><i class="fab fa-linkedin-in"></i></a>
+      </li>
+
     </ul>
-    <!-- Call to action -->
 
   </div>
   <!-- Footer Elements -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://fawzlabs.com"> Fawzlabs.com</a>
+  <div class="footer-copyright text-center py-3">©
+    <a href="http://fawzlabs.com/#/"> 2020 Fawzlabs Private Limited</a>
   </div>
   <!-- Copyright -->
 
