@@ -405,10 +405,10 @@
       </li>
       <li class="list-inline-item">
       
-<a class="btn-floating btn-lg btn-fb" type="button" role="button" href="https://www.facebook.com/fawzlabs/?ref=br_rs"><i class="fab fa-facebook-f"></i></a>
+<a href="https://www.facebook.com/fawzlabs/?ref=br_rs"><i class="fab fa-facebook-f"></i></a>
       </li>
 <li class="list-inline-item">
-      <a class="btn-floating btn-lg btn-li" type="button" role="button" href=" https://www.linkedin.com/company/fawzlabs/"><i class="fab fa-linkedin-in"></i></a>
+      <a href=" https://www.linkedin.com/company/fawzlabs/"><i class="fab fa-linkedin-in"></i></a>
       </li>
 
     </ul>
